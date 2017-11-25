@@ -1,0 +1,2 @@
+# importDataToMysql
+连接数据库封装操作方法，利用xlrd操作Excel，把每行数据封装成一定格式遍历插入MySQL。
